@@ -16,6 +16,4 @@
 - Locally:git tag -d tag_name
 - Remotely: git push origin --delete tag_name
 
-![img][def]
-
-[def]: <img src="https://fakeimg.pl/350x200/ff0000/000">
+![img](IMG/download.png)
